@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.user-bubble {
+    background-color: #DCF8C6;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 60%;
+    float: right;
+    clear: both;
+}
+
+.bot-bubble {
+    background-color: #ECECEC;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 60%;
+    float: left;
+    clear: both;
+}
+
+.clear {
+    clear: both;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
